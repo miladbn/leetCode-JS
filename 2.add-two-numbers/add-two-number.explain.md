@@ -14,7 +14,7 @@ class ListNode {
     this.next = next === undefined ? null : next;
   }
 }
-
+```
 # Properties
 
 - **val**: The value stored in the node. It defaults to 0 if not provided.
